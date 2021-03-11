@@ -1,10 +1,7 @@
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'MainWindow.ui'
-#
-# Created by: PyQt5 UI code generator 5.13.2
-#
-# WARNING! All changes made in this file will be lost!
+# Burada yapılan işlemler, bir arayüz oluşturmaya yaramaktadır.
+# Arayüzün içerisinde oluşan tıklama olayı(toplama-çıkarma-çarpma-bölme)
+# Ekranda görünecek şekilde bu kod bloğundan çıkmaktadır. 
+# Kodların içerisindeki isimlendirme durumları da tamamen bununla bağlantılıdır. 
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
